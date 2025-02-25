@@ -12,3 +12,6 @@ Bạn có muốn cải thiện thuật toán không? (Ví dụ: thay đổi siê
 
 
 ![image](https://github.com/user-attachments/assets/29eb9c75-2ac2-4cef-8b52-60484abd3e59)
+
+![image](https://github.com/user-attachments/assets/94b5c3b6-e614-4800-bdfe-e6c1f3379960)
+
