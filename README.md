@@ -9,3 +9,6 @@ Kết luận: Thuật toán hoạt động khá tốt và đường phân chia p
 
 Bạn có muốn cải thiện thuật toán không? (Ví dụ: thay đổi siêu tham số hoặc thử nghiệm với nhiều dữ liệu hơn?) 🚀 ​
 
+
+
+![image](https://github.com/user-attachments/assets/29eb9c75-2ac2-4cef-8b52-60484abd3e59)
